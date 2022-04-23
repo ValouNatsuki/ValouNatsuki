@@ -15,4 +15,10 @@
 <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-43853d?style=flat-square&logo=androidstudio" />
 </p>
 
+<p>
+<img alt="Windows" src="https://img.shields.io/badge/-Windows-45b8d8?style=flat-square&logo=windows" />
+<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-823085?style=flat-square&logo=ubuntu" />
+<img alt="Android" src="https://img.shields.io/badge/-Android-43853d?style=flat-square&logo=android" />
+</p>
+
 <a href="https://twitter.com/ValouNatsuki" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@valounatsuki-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
