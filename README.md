@@ -1,5 +1,10 @@
 <img align='right' src="https://c.tenor.com/oMhNtk2VwdcAAAAM/yellow-blob.gif" width="230" />
 
+## Hello, I'm ValouNatsuki 🌌
+- 🇫🇷 French junior developer
+- Author of the Twitter bot <a href="https://twitter.com/VocaloFeed">@VocaloFeed</a>
+- Made some bots for my personal Discord Server (39Bot & DIVABot) with Discord.JS
+
 <p>
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-45b8d8?style=flat-square&logo=html5" />
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-45b8d8?style=flat-square&logo=css3&logoColor=blue" />
